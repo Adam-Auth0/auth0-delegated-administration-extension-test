@@ -1,10 +1,10 @@
 {
-  "title": "Delegated Administration Dashboard",
-  "name": "auth0-delegated-admin",
+  "title": "Delegated Administration Dashboard Test",
+  "name": "auth0-delegated-admin-test",
   "version": "3.7.0",
   "author": "auth0",
   "useHashName": false,
-  "description": "This extension allows non-dashboard administrators to manage (a subset of) users.",
+  "description": "This extension allows non-dashboard administrators to manage (a subset of) users. This is a test instance and should not be used. For the real extensipon, please refer to: https://github.com/auth0-extensions/auth0-delegated-administration-extension",
   "type": "application",
   "category": "end_user",
   "logoUrl": "https://cdn.auth0.com/extensions/auth0-delegated-admin/assets/logo.svg",
