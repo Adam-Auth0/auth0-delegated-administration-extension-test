@@ -29,7 +29,7 @@
     "extension"
   ],
   "author": "Auth0",
-  "repository": "https://github.com/auth0-extensions/auth0-delegated-administration-extension",
+  "repository": "https://github.com/Adam-Auth0/auth0-delegated-administration-extension-test",
   "license": "MIT",
   "dependencies": {
     "async": "^1.5.2",
@@ -137,7 +137,7 @@
     "webpack": "4.29.6"
   },
   "auth0-extension": {
-    "title": "Delegated Administration Dashboard",
+    "title": "Delegated Administration Dashboard Test",
     "useHashName": false,
     "type": "application",
     "category": "end_user",
